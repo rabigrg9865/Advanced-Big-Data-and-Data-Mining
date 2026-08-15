@@ -1,0 +1,11 @@
+antecedent,consequent,support,confidence,lift
+high_sulphates + low_density,high_quality,0.061,0.954,1.803
+high_alcohol + high_sulphates,high_quality,0.085,0.928,1.754
+high_alcohol + low_volatile_acidity,high_quality,0.096,0.915,1.73
+low_volatile_acidity + low_density,high_quality,0.078,0.883,1.67
+high_alcohol + low_density,high_quality,0.146,0.861,1.627
+low_volatile_acidity + high_sulphates,high_quality,0.094,0.853,1.613
+high_alcohol,high_quality,0.222,0.846,1.599
+low_volatile_acidity,high_quality,0.194,0.754,1.426
+high_sulphates,high_quality,0.185,0.73,1.381
+low_density,high_quality,0.188,0.729,1.377
